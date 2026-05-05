@@ -74,13 +74,5 @@ indicadores que realmente orientam o negócio.
 Se você quer entender melhor o que está acontecendo no seu negócio com base
 nos seus dados, me chame:
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/eliel-souza-ferreira)
-[
-
-![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-
-](mailto:elielsouzaferreira975@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliel-souza-ferreira)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elielsouzaferreira975@gmail.com)
